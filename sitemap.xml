@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sunweijun.top/2023/04/09/ce-shi-bo-ke-di-er-pian/</loc>
+    <loc>https://sunweijun.top/2023/04/24/centos-python3-6-8-sheng-ji-dao-3-8-0-jie-jue-openai-wu-fa-sheng-ji-huo-cha-zhao-bu-dao-dang-qian-an-zhuang-ban-ben-de-wen-ti/</loc>
     
-    <lastmod>2023-04-09</lastmod>
+    <lastmod>2023-04-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sunweijun.top/2023/04/08/ce-shi-bo-ke/</loc>
+    <loc>https://sunweijun.top/2023/04/18/shi-yan-qi-cai-guan-li-xi-tong/</loc>
     
-    <lastmod>2023-04-09</lastmod>
+    <lastmod>2023-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -73,24 +73,29 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://sunweijun.top/2023/04/05/hello-world/</loc>
-    
-    <lastmod>2023-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://sunweijun.top/</loc>
-    <lastmod>2023-04-11</lastmod>
+    <lastmod>2023-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://sunweijun.top/tags/centos7-python-openai/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://sunweijun.top/categories/python-linux-openai/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
